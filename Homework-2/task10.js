@@ -1,1 +1,1 @@
-//esrdfgtyiklp';//
+let arr = [4, 3, 8, 0, 5];
